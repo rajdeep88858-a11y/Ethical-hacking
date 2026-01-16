@@ -1,0 +1,21 @@
+/* GLOBAL RESET */
+* { margin:0; padding:0; box-sizing:border-box; font-family:Arial, sans-serif; }
+body { transition:0.3s; padding:20px; background:#111; color:#fff; }
+
+/* THEMES */
+body.light { background:#f2f2f2; color:#000; }
+body.blue { background:#001f3f; color:#fff; }
+body.green { background:#002f00; color:#d2ffd2; }
+
+/* HEADER */
+header { text-align:center; margin-bottom:30px; }
+header h1 { font-size:36px; color:#00ff55; text-shadow:0 0 10px #00ff55; }
+header h2 { font-size:28px; color:#fff; }
+.title { color:#00ff55; font-size:20px; }
+
+/* PROFILE IMAGE */
+.profile { width:200px; height:200px; border-radius:50%; border:3px solid #00ff55; display:block; margin:20px auto; }
+
+/* SECTIONS */
+section { margin-bottom:50px; text-align:center; }
+h3 { color:#00…
